@@ -1,0 +1,18 @@
+body {
+  background-color:#ffffff;
+  color: #ffffff;
+
+  background-image: url('./pexels-vincent-ma-janssen-1310847.jpg');
+  /* Replace with the path to your actual image */
+  background-size: cover;
+}
+  .heading {
+      color:#ffffff;
+    }
+     .response{
+    color: #ffffff;
+   }
+   .input{
+      width: 18%;
+   }
+  
